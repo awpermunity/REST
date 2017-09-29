@@ -1,0 +1,16 @@
+{
+  "name": "rest-doctors",
+  "version": "1.0.0",
+  "description": "rest for doctors app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.15.4",
+    "mongoose": "*"
+  },
+  "author": "Bartlomiej Lechowski",
+  "license": "ISC"
+}
